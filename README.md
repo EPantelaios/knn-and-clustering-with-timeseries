@@ -1,6 +1,6 @@
 # Project2
 
-Part A)</br>
+<b>Part A</b></br>
 
 Nearest neighbor search of a timeseries represented as a polygonal curve with the following techniques:</br>
 i)    In Euclidean space R^d with Euclidean distance metric</br>
@@ -9,7 +9,7 @@ iii)  In Euclidean space R with the Continuous Frechet distance metric</br></br>
 
 
 
-Part B)</br>
+<b>Part B)</b></br>
 
 Clustering of timeseries using the following techniques:</br>
 
